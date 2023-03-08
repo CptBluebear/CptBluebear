@@ -21,6 +21,7 @@ mitenmetz@gmail.com
 
 
 # Certification
+- AWS Certified Solutions Architect - Associate
 - Certified Kubernetes Administrator
 - 정보처리기사
 - SQL 개발자
