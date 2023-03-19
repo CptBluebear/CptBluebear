@@ -27,6 +27,8 @@ mitenmetz@gmail.com
 - SQL 개발자
 - 네트워크 관리사
 - 리눅스마스터
+- COS Pro 1급 (Java)
+- PCCP Java LV.5
 
 # Award
 - 제 9회 소프트웨어 개발보안 경진대회 최우수 (행정안전부 장관상)
