@@ -1,5 +1,6 @@
 ---
 # Introduction
+안전하고 안정적인 소프트웨어 개발을 추구하고  
 내가 아는것을 남에게 알려주는것을 당연히 여기고  
 결과물에 만족하지 않고 더 나은방법을 찾아보는  
 이대현 입니다.
@@ -12,12 +13,13 @@ mitenmetz@gmail.com
 - 카카오 클라우드 스쿨 1기 개발자 과정 : 2022.06 ~ 2022.12
 
 # Skill
-- Language: Java, Python
-- Backend : SpringBoot, Security
-- Database : MySQL, MariaDB
-- MQ : RabbitMQ
-- Infra : Kubernetes, Docker
-- Public Cloud : AWS
+Programing Languages : Java, Python  
+Framework/ Library : Spring, SpringBoot, JPA, QueryDSL, MyBatis  
+Server : MySQL, MariaDB, Nexus3 Repository, RabbitMQ, MongoDB  
+Tooling/DevOps : Git, GitHub, GitLab, Docker, Kubernetes  
+Environment : AWS, NCP, Linux  
+ETC : ETCD Cluster  
+
 
 
 # Certification
