@@ -11,6 +11,7 @@ mitenmetz@gmail.com
 - 경기대학교 융합보안학과 (컴퓨터공학부 복수전공) : 2017.03 ~ 2023.02
 - KUCIS 소속 해킹 보안 동아리 K.Knock 활동 : 2017.03 ~ 
 - 카카오 클라우드 스쿨 1기 개발자 과정 : 2022.06 ~ 2022.12
+- 삼성 청년 SW 아카데미 10기 : 2023.07 ~ 
 
 # Skill
 Programing Languages : Java, Python  
@@ -26,9 +27,9 @@ ETC : ETCD Cluster
 - AWS Certified Solutions Architect - Associate
 - Certified Kubernetes Administrator
 - 정보처리기사
-- SQL 개발자
-- 네트워크 관리사
-- 리눅스마스터
+- SQLD
+- 네트워크관리사 2급
+- 리눅스마스터 2급
 - COS Pro 1급 (Java)
 - PCCP Java LV.5
 
