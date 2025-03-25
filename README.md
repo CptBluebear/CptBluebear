@@ -13,20 +13,16 @@ mitenmetz@gmail.com
 - 카카오 클라우드 스쿨 1기 개발자 과정 : 2022.06 ~ 2022.12
 - 삼성 청년 SW 아카데미 10기 : 2023.07 ~ 2023.09
 - 군인공제회C&C : 2023.10 ~ 2023.12
-- 삼성전자 : 2024.01 ~
+- 삼성전자 : 2024.01 ~ (SW 보안 검증)
 
 # Skill
-Programing Languages : Java, Python  
-Framework/ Library : Spring, SpringBoot, JPA, QueryDSL, MyBatis  
-Server : MySQL, MariaDB, Nexus3 Repository, RabbitMQ, MongoDB  
-Tooling/DevOps : Git, GitHub, GitLab, Docker, Kubernetes  
-Environment : AWS, NCP, Linux  
-ETC : ETCD Cluster  
+Java, Python, Secure Coding, Kubernetes
 
 
 
 # Certification
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Security - Specialty
 - Certified Kubernetes Administrator
 - 정보처리기사
 - SQLD
@@ -37,6 +33,7 @@ ETC : ETCD Cluster
 - SWEA Pro
 
 # Award
+- 공개SW 개발자대회 일반 부문 동상, APFS 분석 도구 - 동상
 - 제 9회 소프트웨어 개발보안 경진대회 최우수 (행정안전부 장관상)
 - 우리FIS 주최 2023 Woori 코딩 페스티벌 우수
 - 경기대학교 해킹방어대회 KCTF 은상  
@@ -44,5 +41,4 @@ ETC : ETCD Cluster
 
 # ETC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdst74)](https://solved.ac/sdst74/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CptBluebear)](https://github.com/CptBluebear)
 ---
